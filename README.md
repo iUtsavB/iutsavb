@@ -28,7 +28,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iUtsavB&layout=compact&text_color=daf7dc&bg_color=151515)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iUtsavB&show_icons=true&locale=en&theme=radical" alt="iUtsavB" /></p>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iUtsavB)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iUtsavB&show_icons=true)
 
 ---
 
