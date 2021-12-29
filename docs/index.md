@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+### Hi there 👋
 
-You can use the [editor on GitHub](https://github.com/iUtsavB/iutsavb/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### 👋 Hello, my name is Utsav Bhardwaj
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+### 👨🏻‍💻 About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 🔭 &nbsp; I’m currently learning Web Development, Cloud and DS.
+- 🤔 &nbsp; Exploring newer technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Have Graduation in Computer Science and Engineering from GLA University, Mathura.
+- 💼 &nbsp; Searching for a Fullstack Developer Role(JS or Python).
+- 🌱 &nbsp; Enthusiast in Open Source and Cloud Technology.
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. Coffee <-> Code
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+### 🛠 Tech Stack
 
-- Bulleted
-- List
+- 💻 &nbsp; Python | Javascript | C
+- 🌐 &nbsp; HTML | CSS | Tailwind CSS | React.js | Node.js | Express.js | Flask | Django
+- ☁ &nbsp; Google Cloud Platform | Netlify | Docker | AWS
+- 🔧 &nbsp; Github | PyCharm | Visual Studio code | Git
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+### 📈 Github Stats
 
-[Link](url) and ![Image](src)
-```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iUtsavB&layout=compact&text_color=daf7dc&bg_color=151515)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iUtsavB)  
 
-### Jekyll Themes
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iUtsavB&show_icons=true)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iUtsavB/iutsavb/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
+### 🌐 Let's Connect!
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<img align="left" alt="Utsav Bhardwaj | GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> https://iutsavb.github.io/ <br/>
+<img align="left" alt="Utsav Bhardwaj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> https://twitter.com/iUtsavB <br/>
+<img align="left" alt="Utsav Bhardwaj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/iutsav/ <br/>
+<img align="left" alt="sushilburagute | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> https://www.instagram.com/iutsavb/ <br/>
+
+---
